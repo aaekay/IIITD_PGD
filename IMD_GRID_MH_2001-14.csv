@@ -1,0 +1,57 @@
+village,village_latitude,village_longitude,village_name_census,village_id_census,state,district,taluk,year,vyid,rf_kharif,rf_annual,rf_rabi_postsow,rf_rabi_sow,rf_summer
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2001,Kalman2001,691.967,730.6543,3.358191,197.6059,129.7908
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2002,Kalman2002,563.8726,641.4063,7.375235,93.62165,179.9886
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2003,Kalman2003,393.4199,417.1888,9.802052,4.164139,70.51907
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2004,Kalman2004,681.3722,743.9763,7.413637,73.71895,196.04
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2005,Kalman2005,644.52,722.5165,23.74927,61.57978,111.0503
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2006,Kalman2006,606.5934,749.5034,12.09507,101.5789,208.0525
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2007,Kalman2007,777.3833,830.5433,0,1.233719,325.3447
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2008,Kalman2008,428.0196,531.6238,39.65004,71.39946,97.5715
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2009,Kalman2009,590.9017,651.9341,3.497112,129.4742,102.8989
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2010,Kalman2010,873.2607,927.5151,22.44564,100.5016,130.3962
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2011,Kalman2011,563.6002,604.6877,0,80.55735,81.66337
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2012,Kalman2012,427.9632,435.4851,0,98.09023,53.30962
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2013,Kalman2013,732.1865,801.6793,6.292483,65.08545,177.9164
+Kalman,17.9183,75.7933,Kalman,3697300,Maharashtra,Solapur,North Solapur,2014,Kalman2014,459.489,660.9389,76.6151,93.68859,153.7877
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2001,Kanzara2001,846.6464,885.2292,24.34943,184.5962,303.4241
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2002,Kanzara2002,793.7881,804.6963,10.57257,54.24306,313.1213
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2003,Kanzara2003,648.5563,648.8173,0,32.83437,130.3442
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2004,Kanzara2004,462.9879,482.23,9.772077,42.25962,97.9682
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2005,Kanzara2005,917.2681,981.6078,53.20538,61.40374,183.5376
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2006,Kanzara2006,1001.593,1077.117,57.79516,87.11092,179.5719
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2007,Kanzara2007,925.2345,927.116,1.499781,0.6816403,157.9822
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2008,Kanzara2008,710.8677,755.2577,30.81938,17.8678,113.9013
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2009,Kanzara2009,362.9453,457.134,2.739532,103.5588,93.56979
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2010,Kanzara2010,991.0657,1079.549,41.14785,106.6761,133.9776
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2011,Kanzara2011,849.3688,850.2235,0.2901362,5.236444,132.8376
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2012,Kanzara2012,887.478,887.7369,0.1945824,34.3047,195.9916
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2013,Kanzara2013,1293.587,1326.816,31.67011,210.9345,369.5618
+Kanzara,20.6634,77.3598,Kanzara,528100,Maharashtra,Akola,Murtizapur,2014,Kanzara2014,757.3846,856.4977,92.99832,15.02312,94.75636
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2001,Kinkhed2001,846.6464,885.2292,24.34943,184.5962,303.4241
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2002,Kinkhed2002,793.7881,804.6963,10.57257,54.24306,313.1213
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2003,Kinkhed2003,648.5563,648.8173,0,32.83437,130.3442
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2004,Kinkhed2004,462.9879,482.23,9.772077,42.25962,97.9682
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2005,Kinkhed2005,917.2681,981.6078,53.20538,61.40374,183.5376
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2006,Kinkhed2006,1001.593,1077.117,57.79516,87.11092,179.5719
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2007,Kinkhed2007,925.2345,927.116,1.499781,0.6816403,157.9822
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2008,Kinkhed2008,710.8677,755.2577,30.81938,17.8678,113.9013
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2009,Kinkhed2009,362.9453,457.134,2.739532,103.5588,93.56979
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2010,Kinkhed2010,991.0657,1079.549,41.14785,106.6761,133.9776
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2011,Kinkhed2011,849.3688,850.2235,0.2901362,5.236444,132.8376
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2012,Kinkhed2012,887.478,887.7369,0.1945824,34.3047,195.9916
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2013,Kinkhed2013,1293.587,1326.816,31.67011,210.9345,369.5618
+Kinkhed,20.64,77.4,Kinkhed,530400,Maharashtra,Akola,Murtizapur,2014,Kinkhed2014,757.3846,856.4977,92.99832,15.02312,94.75636
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2001,Shirapur2001,512.4354,514.1094,1.390072,161.9263,65.9902
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2002,Shirapur2002,407.4438,435.974,5.215278,29.98654,231.4086
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2003,Shirapur2003,344.9073,381.4944,0.0378429,26.1451,108.2934
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2004,Shirapur2004,673.8956,777.415,0,101.2575,240.3452
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2005,Shirapur2005,2000.587,2012.613,4.029066,24.98758,562.4757
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2006,Shirapur2006,779.9639,800.0778,1.657645,45.43668,188.1749
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2007,Shirapur2007,611.8716,622.597,8.114883,0,255.3539
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2008,Shirapur2008,1440.288,1455.964,0,39.65016,101.4917
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2009,Shirapur2009,624.8514,726.4492,0.1802038,167.8813,95.71351
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2010,Shirapur2010,694.2076,818.9417,0.11476,180.1476,136.5614
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2011,Shirapur2011,435.9591,435.9591,0,44.09237,64.65119
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2012,Shirapur2012,499.739,499.739,0,123.9912,48.56722
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2013,Shirapur2013,513.9887,541.1547,8.160077,70.1637,133.9299
+Shirapur,19.495,74.24,Shirapur,3226900,Maharashtra,Solapur,Mohol,2014,Shirapur2014,404.2888,533.1812,48.01524,79.39737,66.48263
